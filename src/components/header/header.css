@@ -1,0 +1,17 @@
+header{
+    height: 30vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(103, 103, 233);
+}
+
+img{
+    width: 20%;
+    height: 100%;
+}
+
+h1{
+    font-size: 4rem;
+    color: rgb(6, 17, 116);
+}
